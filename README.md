@@ -93,3 +93,10 @@ npm run dev
 - `PATCH /tasks/{id}`: Update task title, description, or status
 - `PATCH /tasks/{id}/done`: Mark a task as completed
 - `DELETE /tasks/{id}`: Permanently delete a task
+
+
+---
+
+## ⚠️ Note
+- This is a learning project for my fastapi and supabase usage
+- The react frontend is created using ai
